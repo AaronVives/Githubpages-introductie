@@ -4,3 +4,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in aliquam est, a la
 
 tekst 2: Nam luctus dapibus elit non ultricies. Etiam non neque turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis cursus odio a metus vestibulum volutpat. Sed sit amet odio est. Ut congue justo sollicitudin purus laoreet, ac tempus tellus malesuada. Fusce non est erat.
 
+aanpassing 3: Nam luctus dapibus elit non ultricies. Etiam non neque turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis cursus odio a metus vestibulum volutpat. Sed sit amet odio est. Ut congue justo sollicitudin purus laoreet, ac tempus tellus malesuada. Fusce non est erat.
+
